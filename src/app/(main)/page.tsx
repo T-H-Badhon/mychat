@@ -6,7 +6,7 @@ const Homepage = async ({searchParams}:{searchParams:{hi:string}}) => {
 
     return (
         <div >
-            {searchParams.hi || "home page"}
+            {searchParams.hi || "home pages"}
         </div>
     );
 };
