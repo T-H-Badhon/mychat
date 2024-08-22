@@ -26,7 +26,7 @@ const Homepage = ({ searchParams }: { searchParams: { hi: string } }) => {
               <hr className="w-28 border-[2px] border-white  translate-x-44 group-hover:translate-x-0 transition-all duration-500"></hr>
             </div>
             <div className="rotate-45 absolute top-5">
-              <hr className="w-28 border-[2px] border-white translate-x-44 group-hover:translate-x-0 transition-all duration-500"></hr>
+              <hr className="w-28 border-[2px] borderffsdff-white translate-x-44 group-hover:translate-x-0 transition-all duration-500"></hr>
             </div>
           </div>
         </div>
